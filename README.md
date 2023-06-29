@@ -8,7 +8,7 @@
 
 ## Connect with me
 
- ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://in.linkedin.com/in/lb-madesia-890b021a1)
+ ![medium](https://img.shields.io/badge/Medium-12100E?link=https://in.linkedin.com/in/lb-madesia-890b021a1&style=for-the-badge&logo=medium&logoColor=white)
 
   [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://in.linkedin.com/in/lb-madesia-890b021a1](https://in.linkedin.com/in/lb-madesia-890b021a1))
 
