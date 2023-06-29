@@ -8,11 +8,11 @@
 
 ## Connect with me
 
- ![medium?link=https://in.linkedin.com/in/lb-madesia-890b021a1](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+ ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
   [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://in.linkedin.com/in/lb-madesia-890b021a1](https://in.linkedin.com/in/lb-madesia-890b021a1))
 
-  [<img align="left" alt="medium" src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://medium.com/@lalbabumadesia2](https://medium.com/@lalbabumadesia2))
+  [<img align="left" alt="medium" src="[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white]([https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white))" />]([https://medium.com/@lalbabumadesia2](https://medium.com/@lalbabumadesia2))
 
   [<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/22148493/lb-madesia?tab=profile](https://stackoverflow.com/users/22148493/lb-madesia?tab=profile))
 
