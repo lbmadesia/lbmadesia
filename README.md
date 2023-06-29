@@ -40,7 +40,9 @@
 
   <img align="left" alt="Laravel" src="[https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)" />
 
-  <img align="left" alt="Javascript" src="[https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)" />
+  <img align="left" alt="Mysql" src="[https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)" />
+
+  <img align="left" alt="MongoDB" src="[https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)" />
 
 <br>
 <br>
