@@ -14,18 +14,17 @@
 
   [<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/22148493/lb-madesia?tab=profile](https://stackoverflow.com/users/22148493/lb-madesia?tab=profile))
 
-  [<img align="left" alt="facebook" src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)" />]([https://www.facebook.com/profile.php?id=100012726150335](https://www.facebook.com/profile.php?id=100012726150335))
-
 
   [<img align="left" alt="packagist" src="[https://img.shields.io/packagist/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/packagist/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://packagist.org/users/lbmadesia/packages/](https://packagist.org/users/lbmadesia/packages/))
 
-  [<img align="left" alt="packagist" src="[https://img.shields.io/packagist/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/packagist/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://packagist.org/users/lbmadesia/packages/](https://packagist.org/users/lbmadesia/packages/))
+  [<img align="left" alt="npmjs" src="[https://img.shields.io/clearlydefined/score/:type/:provider/:namespace/:name/:revision](https://img.shields.io/clearlydefined/score/:type/:provider/:namespace/:name/:revision)" />]([https://www.npmjs.com/~lbmadesia](https://www.npmjs.com/~lbmadesia))
+
+  [<img align="left" alt="instagram" src="[https://img.shields.io/instagram/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/instagram/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://www.instagram.com/lbmadesia](https://www.instagram.com/lbmadesia))
+
+[<img align="left" alt="facebook" src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)" />]([https://www.facebook.com/profile.php?id=100012726150335](https://www.facebook.com/profile.php?id=100012726150335))
 
 
-  [<img align="left" alt="packagist" src="[https://img.shields.io/instagram/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/instagram/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://www.instagram.com/lbmadesia](https://www.instagram.com/lbmadesia))
-
-
-  [<img align="left" alt="packagist" src="[https://img.shields.io/clearlydefined/score/:type/:provider/:namespace/:name/:revision](https://img.shields.io/clearlydefined/score/:type/:provider/:namespace/:name/:revision)" />]([https://www.npmjs.com/~lbmadesia](https://www.npmjs.com/~lbmadesia))
+  
 
 <br>
 <br>
