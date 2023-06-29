@@ -8,43 +8,59 @@
 
 ## Connect with me
 
- ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@lalbabumadesia2)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/lb-madesia-890b021a1)
 
-  [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://in.linkedin.com/in/lb-madesia-890b021a1](https://in.linkedin.com/in/lb-madesia-890b021a1))
+![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@lalbabumadesia2)
 
-  [<img align="left" alt="medium" src="[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white]([https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white))" />]([https://medium.com/@lalbabumadesia2](https://medium.com/@lalbabumadesia2))
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&https://stackoverflow.com/users/22148493/lb-madesia?tab=profile)
 
-  [<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/22148493/lb-madesia?tab=profile](https://stackoverflow.com/users/22148493/lb-madesia?tab=profile))
+![packagist](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=whitelink=https://packagist.org/users/lbmadesia/packages/)
 
+![NPMJS](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&link=https://www.npmjs.com/~lbmadesia)
 
-  [<img align="left" alt="packagist" src="[https://img.shields.io/packagist/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/packagist/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://packagist.org/users/lbmadesia/packages/](https://packagist.org/users/lbmadesia/packages/))
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lbmadesia)
 
-  [<img align="left" alt="npmjs" src="[https://img.shields.io/clearlydefined/score/:type/:provider/:namespace/:name/:revision](https://img.shields.io/clearlydefined/score/:type/:provider/:namespace/:name/:revision)" />]([https://www.npmjs.com/~lbmadesia](https://www.npmjs.com/~lbmadesia))
-
-  [<img align="left" alt="instagram" src="[https://img.shields.io/instagram/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/instagram/l/:user/:repo?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://www.instagram.com/lbmadesia](https://www.instagram.com/lbmadesia))
-
-[<img align="left" alt="facebook" src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)" />]([https://www.facebook.com/profile.php?id=100012726150335](https://www.facebook.com/profile.php?id=100012726150335))
-
-
-  
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012726150335)
+ 
 
 <br>
 <br>
 
 ## Expertise
-  <img align="left" alt="react" src="[https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
 
-  <img align="left" alt="nodejs" src="[https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)" />
 
-  <img align="left" alt="aws" src="[https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-  <img align="left" alt="Electronjs" src="[https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-  <img align="left" alt="Laravel" src="[https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-  <img align="left" alt="Mysql" src="[https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)" />
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-  <img align="left" alt="MongoDB" src="[https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)" />
+
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+ ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+ ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 <br>
 <br>
