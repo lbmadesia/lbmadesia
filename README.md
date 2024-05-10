@@ -2,7 +2,7 @@
 
   I am a fullstack software engineer from India
 
-    - 🔭 Working on multiple frontend, backend and Window App project using React, Nodejs and Electron
+    - 🔭 Working on multiple technologies as frontend, backend and Window App project using React, Nodejs and Electron
     - 🌱 Learning design patterns in depth
     <br>
 
